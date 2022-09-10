@@ -1,0 +1,124 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+.banner {
+  color: white;
+  font-size: 5em;
+  font-weight: bold;
+  line-height: 1.4em;
+}
+
+.title {
+  background-color: #FF4C68;
+}
+
+.navbar {
+  background-color: #FF4C68;
+  margin: auto;
+}
+
+.brand {
+  font-weight: bold;
+}
+
+.nav-link {
+  color: white;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.container {
+  position: relative;
+  overflow: hidden;
+}
+
+.ihpone-img {
+  position: absolute;
+  width: 350px;
+  right: 20%;
+  transform: rotate(25deg);
+}
+
+.features {
+  padding: 10rem;
+}
+.feature-icons {
+  fill: #EF8172;
+  margin: 2rem;
+  width: 80px;
+}
+
+.features H3 {
+  font-size: 2.3em;
+  font-weight: bolder;
+}
+
+.features p {
+  font-size: 1.1em;
+}
+
+.testimonials {
+  text-align: center;
+  background-color: #EF8172;
+}
+
+.testimonial-img {
+  border-radius: 100%;
+  width: 10%;
+  margin: 70px;
+}
+
+.testimonial-text {
+  margin: auto;
+  margin-top: 2em;
+  width: 35%;
+  font-weight: 800;
+}
+
+.name-adress {
+  color: white;
+  font-size: 1.2em;
+}
+
+.press {
+  background-color: #EF8172;
+}
+
+.press img {
+  width: 200px;
+}
+
+.card {
+  text-align: center;
+}
+
+.cta {
+  background-color: #FF4C68;
+}
+
+.cta-text {
+  color: white;
+  font-size: 3em;
+  font-weight: 900;
+}
+
+.pricing-header {
+  margin: auto;
+  font-weight: 800;
+}
+
+footer {
+  margin: auto;
+  width: 20%;
+}
+
+.social-media-icons {
+  margin-top: 3em;
+  width: 25px;
+}
+
+.footer-info {
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
