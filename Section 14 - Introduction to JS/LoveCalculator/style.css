@@ -1,0 +1,23 @@
+body {
+    background-color: #FF4B67;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+footer {
+    margin: auto;
+    width: 20%;
+  }
+  
+  .social-media-icons {
+    margin-top: 3em;
+    width: 25px;
+  }
+  
+  .footer-info {
+    margin-top: 5em;
+    margin-bottom: 5em;
+  }
+  
